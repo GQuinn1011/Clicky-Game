@@ -22,7 +22,7 @@ class App extends Component {
     this.state.cards.forEach(card => {
       card.count = 0;
     });
-    alert(`Game Over You Already Clicked: ${this.state.cards.id}  \nscore: ${this.state.score}`);
+    alert(`Game Over You Already Clicked That One!  \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
