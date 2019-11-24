@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Clicky-Game (React.js)
+
+### Introduction
+
+*  This a memory game built with React.js. The goal of the game is simple, using your mouse, click each of the twelve character cards from The Office in whatever order you chose - the order does not matter, only that you do not click the same card twice!  
+
+*  Every click triggers the board of cards to reshuffle, thus, you cannot simply click the cards in the order in which they appear on screen.
+
+
 
 ## Available Scripts
 
